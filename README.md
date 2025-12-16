@@ -1,4 +1,4 @@
-# Thesis Project – Metaheuristic Optimization and Neural Networks
+# Thesis Project – Toward AI-assisted discoveries in science
 
 This repository contains the source code, experiments, and documentation developed for my thesis project. The work focuses on the implementation and evaluation of population-based metaheuristic optimization algorithms and the application of artificial neural networks in the context of scientific research, specifically for the investigation and discovery of algebraic properties characterizing algebraic structures of high complexity. In particular, the first phase of the work focuses on the design and development of a generative adversarial neural network (GAN) aimed at generating such algebraic equations.
 
